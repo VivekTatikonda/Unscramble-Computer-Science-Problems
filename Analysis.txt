@@ -1,0 +1,7 @@
+Big O Notation Calculation:
+
+Task0: O(9) - the code takes 9 steps to complete the problem. regardless of the input it requires 9 steps to finish execution and produce result.
+Task1: O(n) - when doing the zip function every item in the list is getting accessed.
+Task2: This is O(2n), which would be O(n)
+Task3: This is O(2n)+ O(nlogn) which would be O(nlogn).
+Task4: This is O(4n)+ O(nlogn) which would be O(nlogn).
